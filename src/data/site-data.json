@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "PowerFix Garage",
+    "tagline": "Mecánica de precisión. Confianza y rendimiento garantizados.",
+    "description": "Somos tu taller de confianza en Alicante, con una valoración perfecta de 5 estrellas. Ofrecemos un servicio integral para tu vehículo, desde mantenimiento hasta reparaciones complejas, con la máxima profesionalidad.",
+    "phone": "",
+    "address": "C. Magistral Segura, 15, 03005 Alicante, España",
+    "email": "contacto@powerfixgarage.es",
+    "rating": 5,
+    "reviewCount": 46,
+    "hours": ["Monday: 8:00 AM – 2:00 PM, 4:00 – 8:00 PM","Tuesday: 8:00 AM – 2:00 PM, 4:00 – 8:00 PM","Wednesday: 8:00 AM – 2:00 PM, 4:00 – 8:00 PM","Thursday: 8:00 AM – 2:00 PM, 4:00 – 8:00 PM","Friday: 8:00 AM – 2:00 PM, 4:00 – 8:00 PM","Saturday: 10:00 AM – 3:00 PM","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#0D47A1",
+    "secondary": "#1A1A1A",
+    "accent": "#FFC107",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "El taller 5 estrellas que tu coche merece.",
+    "subheadline": "Confianza, tecnología y los mejores mecánicos de Alicante para garantizar el máximo rendimiento y seguridad de tu vehículo.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Servicios", "href": "#services" },
+    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80"
+  },
+  "services": [
+    { "icon": "🔧", "title": "Mantenimiento Integral", "description": "Realizamos revisiones completas y mantenimiento preventivo para que tu coche funcione siempre como el primer día. Anticipa problemas y ahorra en futuras reparaciones." },
+    { "icon": "💻", "title": "Diagnosis Electrónica", "description": "Utilizamos la última tecnología para identificar con precisión cualquier avería en los sistemas electrónicos de tu vehículo. Soluciones rápidas y efectivas garantizadas." },
+    { "icon": "⚙️", "title": "Reparación de Motor", "description": "Somos especialistas en la reparación y reconstrucción de motores. Devolvemos la potencia y eficiencia original a tu coche con componentes de máxima calidad." },
+    { "icon": "🚘", "title": "Frenos y Neumáticos", "description": "Tu seguridad es nuestra prioridad. Revisamos y reparamos sistemas de frenado y neumáticos para garantizar un agarre y respuesta óptimos en carretera." }
+  ],
+  "about": {
+    "title": "Pasión por la Mecánica, Compromiso Contigo",
+    "text": "PowerFix Garage nació en el corazón de Alicante con un objetivo claro: ofrecer un servicio que va más allá de la simple reparación. Buscamos construir relaciones de confianza con cada cliente, asegurando que su vehículo reciba el cuidado experto que merece y necesita.\n\nNuestro equipo está formado por mecánicos certificados con años de experiencia, en constante formación sobre las últimas tecnologías del sector. Creemos en la transparencia, el trabajo bien hecho y la comunicación clara. Esta filosofía nos ha llevado a obtener una valoración de 5 estrellas, un orgullo que refleja la satisfacción de nuestros clientes y nos impulsa a mejorar cada día.",
+    "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80", "alt": "Equipo de mecánicos profesionales colaborando en el taller" },
+    { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80", "alt": "Instalaciones modernas y organizadas de PowerFix Garage" },
+    { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80", "alt": "Vista del área de recepción y espera para clientes" },
+    { "url": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80", "alt": "Mecánico experto realizando una revisión detallada del motor" }
+  ],
+  "testimonials": [
+    { "name": "Javier López", "stars": 5, "text": "Un trato excelente y una profesionalidad impecable. Dejaron mi coche como nuevo, sin duda mi taller de confianza en Alicante." },
+    { "name": "María Fernández", "stars": 5, "text": "¡Servicio rápido y eficaz! Me explicaron todo el proceso con claridad y el precio fue muy justo. Totalmente recomendables." },
+    { "name": "Carlos Sánchez", "stars": 5, "text": "Por fin un taller honesto. Me solucionaron un problema que otros no supieron encontrar. La valoración de 5 estrellas es merecidísima." }
+  ],
+  "contact": {
+    "title": "¿Listo para poner tu coche a punto?",
+    "subtitle": "Contacta con nosotros a través del formulario o ven a visitarnos en Alicante. Estaremos encantados de asesorarte.",
+    "whatsappNumber": "",
+    "showMap": true,
+    "mapQuery": "PowerFix Garage C. Magistral Segura, 15, 03005 Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 PowerFix Garage"
+  }
+}
